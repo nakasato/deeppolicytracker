@@ -5,7 +5,7 @@ This repository is related to the paper *DeepPolicyTracker: Tracking Changes In 
 The version of the *Government Actions Tracker* dataset annotated by domain experts and used in this work is available in ```databaset/government_actions_tracker.csv```. It is worth mentioning this dataset is part of an active work that is updated daily by the **Política Por Inteiro** team; thus, its latest version can be consulted directly on the [organization's website](https://www.politicaporinteiro.org/monitor-de-atos-publicos/).
 
 ## Acknowledgments
-This work is the result of an academic partnership between the Polytechnic School of the University of Sao Paulo and Política Por Inteiro; without their data curation efforts, building this model would not have been possible. Also, this research was supported by Itaú Unibanco S.A. Findings and conclusions expressed here are the responsibility of the authors.
+This work is the result of an academic partnership between the Polytechnic School of the University of Sao Paulo and [Política Por Inteiro](https://www.politicaporinteiro.org); without their data curation efforts, building this model would not have been possible. Also, this research was supported by Itaú Unibanco S.A. Findings and conclusions expressed here are the responsibility of the authors.
 
 <br>
 
@@ -13,3 +13,5 @@ This work is the result of an academic partnership between the Polytechnic Schoo
 <sup>1</sup> *Polytechnic School, University of Sao Paulo, Sao Paulo, Brazil*
 <br>
 <sup>2</sup> *Política por Inteiro, Sao Paulo, Brazil*
+
+![support](support_partner.png)
